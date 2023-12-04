@@ -1,0 +1,62 @@
+
+h1{
+
+    text-align: center;
+}
+
+h2{
+        text-align: center;
+
+}
+
+p{
+    text-align: center;
+
+}
+nav li {text-transform: lowercase;
+        color: black;
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+        display: inline-block;
+        
+}
+nav a {
+
+
+    display: inline;
+    margin: 20px;
+
+}
+ul{
+
+    text-align: center;
+}
+body {
+    background-color: grey;
+
+    
+}
+
+h2 {
+
+    font-size: 50px;
+
+}
+p{
+    font-size: 30px;
+
+}
+.imgalimentos{
+    display: inline-block;
+    margin-left: 800px;
+     width: 20%;
+}
+
+    
+
+
+
+
+
+
